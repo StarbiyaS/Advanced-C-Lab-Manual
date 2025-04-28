@@ -257,7 +257,8 @@ int main()
 
 # Output:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6a61feb7-d9e4-48bd-96e1-582bd207865d)
+
 
 
 
